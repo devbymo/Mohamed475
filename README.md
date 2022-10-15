@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning node.js
 - 💞️ I’m looking to collaborate on imporove API's quality
 - 📫 How to reach me:
-  Whatsapp: +201275682565
-  Linkedin: https://www.linkedin.com/in/mohamed-yasser-4033a3248/
+  Whatsapp: +201275682565 -- Linkedin: https://www.linkedin.com/in/mohamed-yasser-4033a3248/ -- email: mohamed.yasser.dev@gmail.com
+  
 
 <!---
 Mohamed475/Mohamed475 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
