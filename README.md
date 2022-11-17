@@ -1,9 +1,13 @@
-- 👋 Hi, I’m @Mohamed475
+- 👋 Hi, I’m @mo
 - 👀 I’m interested in backend development
 - 🌱 I’m currently learning backend 
-- 💞️ I’m looking to collaborate on imporove API's quality
+- 💞️ I’m looking to collaborate on building real-world apps
 - 📫 How to reach me:
-  Whatsapp: +201275682565 -- Linkedin: https://www.linkedin.com/in/mohamed-yasser-4033a3248/ -- email: mohamed.yasser.dev@gmail.com
+  > - 🔢 Whatsapp: `+201224440417`
+  > - 📧 Email: `iammodev99@gmail.com`
+  > - 👀 Linkedin: [show-me](linkedin.com/in/mohamed-yasser-4033a3248)
+  > - 🥎 Portfolio: [show-me](mo.com)
+- 📌 Resume: [show-me](mo.com)
   
 
 <!---
