@@ -5,7 +5,7 @@
 - 📫 How to reach me:
   > - 🔢 Whatsapp: `+201224440417`
   > - 📧 Email: `iammodev99@gmail.com`
-  > - 👀 Linkedin: [show-me](https://www.linkedin.com/)
+  > - 👀 Linkedin: [show-me](https://www.linkedin.com/in/mohamed475/)
   > - 🥎 Portfolio: [show-me](mo.com)
 - 📌 Resume: [show-me](mo.com)
 
