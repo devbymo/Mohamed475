@@ -8,6 +8,8 @@
   > - 👀 Linkedin: [show-me]([www.linkedin.com/in/mohamed475](https://www.linkedin.com/in/mohamed475/))
   > - 🥎 Portfolio: [show-me](mo.com)
 - 📌 Resume: [show-me](mo.com)
+
+[This is an external link to genome.gov](https://www.genome.gov/)
   
 
 <!---
