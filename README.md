@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mo
-- 👀 I’m interested in backend development
+- 👀 I’m interested in backend & cloud dev
 - 🌱 I’m currently learning Cloud
 - 💞️ I’m looking to collaborate on building real-world apps
 - 📫 How to reach me:
