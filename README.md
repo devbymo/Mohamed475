@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mo
 - 👀 I’m interested in backend & cloud dev
-- 🌱 I’m currently learning Cloud
+- 🌱 I’m currently learning advanced things in both cloud & backend
 - 💞️ I’m looking to collaborate on building real-world apps
 - 📫 How to reach me:
   > - 🔢 Whatsapp: `+201224440417`
