@@ -7,7 +7,7 @@
   > - 📧 Email: `iammodev99@gmail.com`
   > - 👀 Linkedin: [show-me](https://www.linkedin.com/in/mohamed475/)
   > - 🥎 Portfolio: [show-me](mo.com)
-- 📌 Resume: [show-me](mo.com)  
+- 📌 Resume: [show-me](https://drive.google.com/file/d/1ykE1c5x7sSca-dQ_qwj9VCTKickcsSmz/view)
 
 <!---
 Mohamed475/Mohamed475 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
