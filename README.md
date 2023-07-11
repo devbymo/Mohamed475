@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mo
-- 👀 I’m interested in backend & cloud dev
-- 🌱 I’m currently learning advanced things in both cloud & backend
-- 💞️ I’m looking to collaborate on building real-world apps
+- 👀 I have a strong skill set in backend development and DevOps.
+- 💞️ I'm actively seeking collaborations to contribute towards the development of real-world applications.
 - 📫 How to reach me:
   > - 🔢 Whatsapp: `+201224440417`
   > - 📧 Email: `iammodev99@gmail.com`
