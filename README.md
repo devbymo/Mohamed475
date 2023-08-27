@@ -2,7 +2,6 @@
 - 👀 I have a strong skill set in backend development and DevOps.
 - 💞️ I'm actively seeking collaborations to contribute towards the development of real-world applications.
 - 📫 How to reach me:
-  > - 🔢 Whatsapp: `+201224440417`
   > - 📧 Email: `iammodev99@gmail.com`
   > - 👀 Linkedin: [show-me](https://www.linkedin.com/in/mohamed475/)
   > - 🥎 Blogs: [show-me](https://iammo69.web.app/#blog)
